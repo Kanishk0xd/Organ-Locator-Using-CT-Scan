@@ -1,0 +1,10 @@
+numpy
+pydicom
+nibabel
+totalsegmentator
+scikit-image
+open3d
+trimesh
+scipy
+monai
+pyembree
